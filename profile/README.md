@@ -1,25 +1,35 @@
 <p align="center" width="100%"><img src="https://github.com/Frank-Dex-Devs/.github/blob/main/profile/newest.png"/></p>
 
 
-## Hi there 👋 :kenya: :red_circle::orange_circle::green_circle:
+## Howdy, 👋 :kenya:
 
-<strong>Frank Dex Devs</strong>:registered: company based in Kenya :kenya: and looking forward to bringing solutions that fit globally.
+Welcome to the official GitHub profile of Frank Dex Devs! We are a software development company passionate about creating innovative solutions and delivering exceptional results. 🚀
+
+#### About Us
+
+<p>At Frank Dex Devs, we specialize in developing cutting-edge software solutions tailored to meet the unique needs of our clients. With a team of experienced and talented developers, we tackle complex challenges and turn ideas into reality. Our commitment to excellence and continuous learning drives us to stay ahead in the fast-paced world of technology.</p>
 
 <img src="https://github.com/Frank-Dex-Devs/.github/blob/main/profile/2.png"/>
 
-#### :telescope: Custom software development that delivers powerful solutions
+## Our Expertise
 
-We start with a collaborative approach on all projects, working meticulously and closely with our customers to define and understand 
-their organisational goals and software development project requirements. This early process is vital to long-term success. 
-We advance your project to effectively deliver quality results. Our extensive business knowledge and experience accelerate the whole process, 
-ensuring real results when you need them.
+We offer a wide range of services and expertise to help businesses thrive in the digital landscape:
 
+- **Web Development:** From dynamic websites to robust web applications, we leverage the latest technologies and industry best practices to deliver engaging user experiences.
 
-#### :diamonds: Software, for everyone 
+- **Mobile App Development:** We craft powerful and intuitive mobile applications for both Android and iOS platforms, keeping user-centric design and performance in mind.
+
+- **Custom Software Development:** Our team excels in building tailor-made software solutions that streamline business processes and drive efficiency.
+
+- **UI/UX Design:** We believe in creating visually stunning and user-friendly interfaces that enhance user engagement and leave a lasting impression.
+
+- **Consulting and Support:** We offer strategic technology consulting, project management, and ongoing support to ensure our clients' success at every stage of their digital journey.
+
+## Our GitHub Projects
+
+Check out our GitHub repositories to explore some of our open-source projects, libraries, and demos. We actively contribute to the developer community and believe in the power of collaboration and knowledge sharing.
 
 <img src="https://github.com/Frank-Dex-Devs/.github/blob/main/profile/1.png"/>
-
-We’re always proud to work on projects which have a beneficial impact on society, and are driven not only by our passion for technology and innovation, but also by our aim to make the world a better place through software development that benefits our global community. Give us the idea, we bring it to life.
 
 ## Vision and mission
 
@@ -31,42 +41,21 @@ efficiency and timeliness. Work with us, you'll wish you did it earlier!&smile;
 
 
 <div id="badges">
- 💬 Wanna talk? 🧞
  
- 
- <a href="mailto:lucasfrank254@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/francis-karuri-b30334177/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/dev_luke_254">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+## Let's Connect
+
+We are always excited to collaborate with like-minded individuals and businesses. Feel free to reach out to us to discuss your project ideas, partnership opportunities, or to learn more about what we do. Together, we can create something extraordinary!
+
+📧 Email: [info@frankdexdevs.com](mailto:lucasfrank254@gmail.com)
+
+Connect with us on social media:
+
+🐦 Twitter: [@FrankDexDevs](https://twitter.com/dev_luke_254)
+
+👥 LinkedIn: [Frank Dex Devs](https://www.linkedin.com/in/francis-karuri-b30334177/)
+
+Thank you for visiting our profile. We look forward to the opportunity to collaborate and create amazing software solutions together!
+
+Made with ❤️ by Frank Dex Devs
+
  </div>
-
-
-
-## :hammer_and_wrench: Proficiency
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-
-
-## When free, this is what we do
-
-<div float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LUCASFRANKINC&show_icons=true&theme=radical" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LUCASFRANKINC&theme=radical" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASFRANKINC&show_icons=true&theme=radical&langs_count=8)](https://github.com/LUCASFRANKINC/github-readme-stats" height="250em"/> 
- <img src="https://activity-graph.herokuapp.com/graph?username=LUCASFRANKINC&theme=radical" height="250em" />
-</div>
