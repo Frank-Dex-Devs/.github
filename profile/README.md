@@ -46,7 +46,7 @@ efficiency and timeliness. Work with us, you'll wish you did it earlier!&smile;
 
 We are always excited to collaborate with like-minded individuals and businesses. Feel free to reach out to us to discuss your project ideas, partnership opportunities, or to learn more about what we do. Together, we can create something extraordinary!
 
-📧 Email: [info@frankdexdevs.com](mailto:lucasfrank254@gmail.com)
+📧 Email: [📧](mailto:contact@frankdexdevs.co.ke)
 
 Connect with us on social media:
 
